@@ -6,13 +6,13 @@
 ### <div align="center">I'm Tai, a freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/ALIAN-01?tab=projects)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Javacrips and HTML-CSS 
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Javacript and HTML-CSS
   
 
 - ⚡ Fun fact: I use tabs over spaces  
