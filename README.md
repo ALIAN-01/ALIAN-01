@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Tai, a freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Tai, a backend developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/ALIAN-01?tab=projects)  
   
 
-- 🌱 I’m currently learning Javacrips and HTML-CSS 
+- 🌱 I’m currently learning Java and HTML-CSS 
   
 
-- ❓ Ask me about anything related to Javacript and HTML-CSS
+- ❓ Ask me about anything related to Java and HTML-CSS
   
 
 - ⚡ Fun fact: I use tabs over spaces  
