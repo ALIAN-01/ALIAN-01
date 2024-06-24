@@ -73,19 +73,19 @@
 <a href="https://dev.to/https://dev.to/alian01" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/404covernotfound" target="_blank">
+<a href="https://www.facebook.com/404covernotfound" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/tritaihl/" target="_blank">
+<a href="https://instagram.com/tritaihl/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/https://gitlab.com/ALIAN-01" target="_blank">
+<a href="https://gitlab.com/ALIAN-01" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20824448/gru-gru" target="_blank">
+<a href="https://stackoverflow.com/users/20824448/gru-gru" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCFj7KF9CmITRFNnnwXY-zkw" target="_blank">
+<a href="https://www.youtube.com/channel/UCFj7KF9CmITRFNnnwXY-zkw" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -117,7 +117,7 @@
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/MOMO: 0862905303" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/MOMO: 0876210804" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
